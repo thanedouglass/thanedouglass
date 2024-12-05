@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently developing a decentralized fundraising tool for scholars & campus organizations!<br>🪐 I'm currently learning EEG/ERP Analysis with Python and MNE and Google Cloud Skills Boost Path: Machine Learning Engineer<br>💫 Fun fact: I am a Web3 content creator; view my X/YT @thanosswrld<br>✨ Ask me about y3k, Google Developers Group, my portfolio, Bitcoin Lightning Network nodes... or anything
+🚀 I'm currently developing a decentralized fundraising tool for scholars & campus organizations!<br>🪐 I'm currently learning EEG/ERP Analysis with Python and MNE and Google Cloud Skills Boost Path: Machine Learning Engineer<br>💫 Fun fact: I am an human-computer interaction researcher and Web3 community builder; view my X/YT @thanosswrld<br>✨ Ask me about y3k, Another Awesome Day 501(c)(3), Google Developers Group, crypto, Bitcoin Lightning Network nodes... or anything
 
 
 ## 🌐 Socials:
