@@ -1,8 +1,8 @@
 # 💫 About Me:
-🚀 Exploring the psychological architecture of Human-AI Interaction. <br>☄️ Fun fact: I'm a bass singer in Howard Harmonies, Editor-in-Chief of Ukweli, and Web3 artist!<br>✨ Ask me about Teens4LA, Neurotech, Bitcoin Lightning Network nodes, research... or just about anything!<br>🤝 Community: HCAI @ Howard • Global Changemakers • Another Awesome Day 501(c)(3) • Google Developers Group • Ukweli: The Howard University Undergraduate Research Journal<br>🛠️ Research & Projects:
+🚀 Exploring the psychological architecture of Human-AI Interaction. <br>☄️ Fun fact: I'm a bass singer in Howard Harmonies, Editor-in-Chief of Ukweli, and Web3 artist! View my artwork here https://ayodesci.art <br>✨ Ask me about Teens4LA, Neurotech, Bitcoin Lightning Network nodes, research... or just about anything!<br>🤝 Community: HCAI @ Howard • Global Changemakers • Another Awesome Day 501(c)(3) • Google Developers Group • Ukweli: The Howard University Undergraduate Research Journal<br>🛠️ Research & Projects:
 * **Biosignal Processing:** Cloud-native Sleep Stage Classifier (EEG/MNE-Python) 🧠
 * **Algorithmic Fairness:** Quantifying linguistic bias against AAVE in LLMs (Brave I.D.E.A.S. Lab) ⚖️
-* **Cognitive Modeling:** Socio-affective prediction errors & Theory of Mind (Olson Lab) 💭<br>View further contact information down below<br>Contact information down below👇<br> https://popl.co/profile/rZSDPe7H/dash<br>View my artwork here👇<br>https://ayodesci.art
+* **Cognitive Modeling:** Socio-affective prediction errors & Theory of Mind (Olson Lab) 💭<br>View further contact information down below<br>Contact information down below👇<br> https://popl.co/profile/rZSDPe7H/dash<br>
 
 
 ## 🌐 Socials:
